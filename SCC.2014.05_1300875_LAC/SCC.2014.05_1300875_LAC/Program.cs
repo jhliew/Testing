@@ -25,6 +25,7 @@ namespace SCC._2014._05_1300875_LAC
                 if (inputAmount == "Quit")
                 {
                     stopApplication = true;
+                    wahaha
                 }
 
                 else

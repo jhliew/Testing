@@ -1,0 +1,7 @@
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\bin\Debug\UnitTest.LegalAmountConverter.dll
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\bin\Debug\UnitTest.LegalAmountConverter.pdb
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\bin\Debug\SCC.2014.05_1300875_LAC.exe
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\bin\Debug\SCC.2014.05_1300875_LAC.pdb
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\obj\Debug\UnitTest_LegalAmountConverter.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\obj\Debug\UnitTest.LegalAmountConverter.dll
+C:\Users\Aiden\Documents\GitHub\Testing\SCC.2014.05_1300875_LAC\UnitTest.LegalAmountConverter\obj\Debug\UnitTest.LegalAmountConverter.pdb
